@@ -1,0 +1,213 @@
+@media only screen and (min-width: 120px) {
+    body {
+        background-color: #253d2d;
+    }
+}
+
+@media only screen and (min-width: 400px) {
+    body {
+        background-color: #253d2d;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 2560px) {
+    body {
+        background: #253d2d;
+    }
+}
+
+.btnHome {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+
+/* BTN 1 [HOME] */
+
+.btnLocalizacao {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnAtrativos_Naturais {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnAtividades_de_Aventura {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+    ;
+}
+
+.btnAgencias_Viagens {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnGuias_de_Turismo {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnNormas_Tecnicas {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnInstituicoes_Parceiras {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+.btnRegistros_Fotograficos {
+    background-color: #253d2d;
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    width: 150px;
+    font-size: 12px;
+}
+
+
+/* BTN 02 */
+
+.btnLocalizacao_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnAtrativos_Naturais_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnAtividades_de_Aventura_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnAgencias_Viagens_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnGuias_de_Turismo_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnNormas_Tecnicas_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnInstituicoes_Parceiras_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnRegistros_Fotograficos_02 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: black;
+    border-radius: 6px;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+}
+
+.btnTopo {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom-color: none;
+    border-radius: 6px;
+    margin: 4px;
+    width: 100px;
+    font-size: 18px;
+}
+
+
+/* CAMPOS */
+
+h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h4 {
+    padding-left: 130px;
+    text-align: center;
+}
+
+h5 {
+    padding-left: 120px;
+}
